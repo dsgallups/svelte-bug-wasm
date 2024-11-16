@@ -6,7 +6,8 @@
 		"build-svelte": "vite build",
 		"preview": "vite preview",
 		"build-wasm": "wasm-pack build --target bundler --release -d ./src/lib/wasm/pkg",
-		"debug": "./debug.sh"
+		"debug": "./debug.sh",
+		"dev": "vite dev"
 	},
 	"devDependencies": {
 		"@playwright/test": "^1.48",
