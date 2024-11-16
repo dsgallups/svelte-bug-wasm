@@ -1,0 +1,12 @@
+.DS_Store
+node_modules
+.svelte-kit
+/target
+/build
+.env
+packages
+megamind/test-results
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+.wrangler
+.zed
