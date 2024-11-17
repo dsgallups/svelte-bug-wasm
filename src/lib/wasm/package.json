@@ -1,19 +1,19 @@
 {
-	"name": "arm-wasm",
+	"name": "svelte_bug_wasm",
 	"collaborators": [
 		"Daniel Gallups <daniel@protonmail.com>"
 	],
 	"version": "0.1.1",
 	"files": [
-		"arm_wasm_bg.wasm",
-		"arm_wasm.js",
-		"arm_wasm_bg.js",
-		"arm_wasm.d.ts"
+		"svelte_bug_wasm_bg.wasm",
+		"svelte_bug_wasm.js",
+		"svelte_bug_wasm_bg.js",
+		"svelte_bug_wasm.d.ts"
 	],
-	"module": "arm_wasm.js",
-	"types": "arm_wasm.d.ts",
+	"module": "svelte_bug_wasm.js",
+	"types": "svelte_bug_wasm.d.ts",
 	"sideEffects": [
-		"./arm_wasm.js",
+		"./svelte_bug_wasm.js",
 		"./snippets/*"
 	]
 }

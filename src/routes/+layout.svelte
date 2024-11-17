@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { init } from '$lib/wasm/pkg/arm_wasm';
+	import { init } from '$lib/wasm/pkg/svelte_bug_wasm';
 </script>
 
 <svelte:head>
